@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: white;
+}
+
+h1 {
+    color: grey;
+}
+
+h2 {
+    color: grey;
+}
+
+p {
+    color: grey;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid whitesmoke;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: whitesmoke;
+}
